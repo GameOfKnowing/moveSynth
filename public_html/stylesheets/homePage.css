@@ -1,5 +1,10 @@
 body {
 	font-family: "Arial", sans-serif;
+	height: 75%;
+	margin: 25% 10%; 
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 75%;
 }
 
 header{
